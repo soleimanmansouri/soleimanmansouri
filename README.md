@@ -14,7 +14,7 @@ One platform replacing 6 enterprise vendors. Voice AI is just the front door —
 - **Background automation:** transcription sweep, DMS queue, vehicle sync, capacity sync, accounting (n8n + Odoo)
 - **Multi-dealer:** VW, Skoda, Audi — same OS, different config per dealer
 
-723 commits across 3 repos. 86% solo engineering output. Live in production.
+Live in production, serving 3 dealerships.
 
 ---
 
