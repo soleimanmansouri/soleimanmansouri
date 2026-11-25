@@ -22,6 +22,8 @@ Live in production, serving 3 dealerships.
 
 **[debug-bank](https://github.com/soleimanmansouri/debug-bank)** — Pattern-first debugging memory for AI coding agents. 19 patterns extracted from hundreds of production debugging sessions. Works with Claude Code, Codex CLI, Gemini CLI, Cursor.
 
+**[samsung-frame-deploy](https://github.com/soleimanmansouri/samsung-frame-deploy)** — macOS app that puts art on Samsung The Frame TVs: network scan, several TVs, Wikimedia Commons search, correct aspect ratio, 2017 Frames supported. [Download](https://github.com/soleimanmansouri/samsung-frame-deploy/releases/latest)
+
 ---
 
 ## Stack
